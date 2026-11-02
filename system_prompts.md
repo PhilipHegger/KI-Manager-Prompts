@@ -1,0 +1,1 @@
+# Meine KI-Manager Prompts
